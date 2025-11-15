@@ -1,0 +1,10 @@
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\DataAccess\obj\Debug\DataAccess.pdb

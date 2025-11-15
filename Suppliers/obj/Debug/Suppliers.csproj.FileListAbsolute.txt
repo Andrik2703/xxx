@@ -1,0 +1,17 @@
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\Suppliers.exe.config
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\Suppliers.exe
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\Suppliers.pdb
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\ApplicationLogic.dll
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\DataAccess.dll
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\EntityFramework.dll
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\ApplicationLogic.pdb
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\DataAccess.pdb
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\DataAccess.dll.config
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\bin\Debug\EntityFramework.xml
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.AssemblyReference.cache
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.Properties.Resources.resources
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.GenerateResource.cache
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.CoreCompileInputs.cache
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.Up2Date
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.exe
+C:\Users\arxie\OneDrive\Escritorio\Suppliers\Suppliers\obj\Debug\Suppliers.pdb
